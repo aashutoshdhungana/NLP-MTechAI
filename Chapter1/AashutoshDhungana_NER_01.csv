@@ -1,0 +1,73 @@
+Entity,Entity_Type
+Sandeep Sen,PERSON
+10:34 am Jul 23,QUANTITY
+2026,DATE
+58,CARDINAL
+263,CARDINAL
+House,ORG
+"Rule 114
+    Everest",LAW
+"7,000",CARDINAL
+"8,000",CARDINAL
+Nepal,GPE
+20+,DATE
+ISO,ORG
+Casino Regulatory Unit,ORG
+AML,ORG
+KATHMANDU,PERSON
+22,CARDINAL
+Fifty-eight,CARDINAL
+263,CARDINAL
+the Tourism Bill,LAW
+2081,DATE
+Nepal,PERSON
+Everest,LOC
+House,ORG
+114,CARDINAL
+Dol Prasad Aryal,PERSON
+the National Assembly,ORG
+February,DATE
+House,ORG
+Everest,LOC
+One,CARDINAL
+Mt Everest,LOC
+"8,000-metre",QUANTITY
+at least one,CARDINAL
+"7,000-metre",QUANTITY
+Nepal,GPE
+"7,000-metre",QUANTITY
+"8,000-metre",QUANTITY
+"8,000-metre",QUANTITY
+first,ORDINAL
+"6,000",CARDINAL
+"7,000",CARDINAL
+Everest,LOC
+"one 7,000-metre",QUANTITY
+two,CARDINAL
+"8,000-metre",QUANTITY
+two,CARDINAL
+Everest,LOC
+Nepal,GPE
+Nepal,GPE
+Nepali,NORP
+Nepali,GPE
+Nepali,PERSON
+20 kilograms,QUANTITY
+15 kilograms,QUANTITY
+"3,500 metres",QUANTITY
+Casino Regulatory Unit,ORG
+CRU,ORG
+the Department of Tourism,ORG
+Casino Villages,WORK_OF_ART
+"above 6,000 metres",QUANTITY
+Himalayan,NORP
+Nepal Tourism Authority,ORG
+the Department of Tourism,ORG
+Tourism Development Fund,ORG
+18 months,DATE
+House,ORG
+263,CARDINAL
+House,ORG
+Parliament,ORG
+the Tourism Bill,LAW
+the National Assembly,ORG
